@@ -12,8 +12,10 @@ Fibonacci_Sequence
 	- Learned the strategies to optimize the code by making the program more efficient
 
 GridTraveler
+
 	- Implemented a GridTraveler problem to find how many paths can a traveler travel on a 2D gird; a traveler begins to travel in the top-left corner of a m x n grid, 
 	and a traveler's goal is to travel to the bottom-right corner. A traveler can only move down or right.
+	
 	- Optimize the code by using different techniques of dynamic programming to analyze the time and space complexity.
 
 Multiplication_Recursive
