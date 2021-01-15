@@ -2,7 +2,7 @@
  * Find the number of vowels and consonants in a given string
  * Create a method that takes a string input and prints out the number of vowels and
  * the number of consonants in that string input.
- * Vowels: a, e, i, o, u, y
+ * Vowels: A, E, I, O, U, Y
  * */
 
 public class findVowelsAndConsonants {
