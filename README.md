@@ -1,15 +1,28 @@
 # Projects
 
-A collections of mini projects built in Java, JavaScript, Python 
+A collections of coding challenges implemented in Java, JavaScript, Python 
 
 Java
 
+Clock_Angle
+
+	- Wrote a function that returns the acute angle between two hands of a clock.
 
 Fibonacci_Sequence
 
-	- Implemented fibonacci sequence by using different algorithms to analyze the time and space complexity
+	- Implemented fibonacci sequence by using different algorithms to analyze the time and space complexity.
 	
-	- Learned the strategies to optimize the code by making the program more efficient
+	- Learned the strategies to optimize the code by making the program more efficient.
+
+findMostRepeatedWord
+
+	- Created a program that determines the most repeated word in a given string.
+
+	- Designed a method to print out the number of times that the most repeated word appears. 
+
+findVowelsAndConsonants
+
+	- Created a method that takes a string input and prints out the number of vowels and the number of consonants in the given string input, where vowels are a, e, i, o, u, y.
 
 GridTraveler
 
@@ -22,13 +35,17 @@ Multiplication_Recursive
 
 	- Created a method to multiply two numbers by using multiplication recursive. 
 
-Valid_Parentheses
+SubstitutionCipher
 
-	- Created a program that takes an input string, containing the characters '(', ')', '{', '}', '[' and ']', and determines if the input string is valid.
+	- Implemented a substitution cipher to encrypt a message of printable ASCII characters with a random shifting amount(k) in the range of 1-5.
 
 Swap_Numbers
 
 	- Implemented methods that swap two numbers without using a temporary varible.
+
+Valid_Parentheses
+
+	- Created a program that takes an input string, containing the characters '(', ')', '{', '}', '[' and ']', and determines if the input string is valid.
 
 Word_Frequencies
 
