@@ -4,9 +4,17 @@ A collections of coding challenges implemented in Java, JavaScript, Python
 
 Java
 
+Check_Permutation
+
+	- Implemented a method to determine if the two input strings are permutation. 
+
 Clock_Angle
 
 	- Wrote a function that returns the acute angle between two hands of a clock.
+
+convertSortedListToBinarySearchTree
+
+	- Implemented a method to convert a sorted singly-linked list to a binary search tree.
 
 Fibonacci_Sequence
 
@@ -29,11 +37,27 @@ GridTraveler
 	- Implemented a GridTraveler problem to find how many paths can a traveler travel on a 2D gird; a traveler begins to travel in the top-left corner of a m x n grid, 
 	and a traveler's goal is to travel to the bottom-right corner. A traveler can only move down or right.
 	
-	- Optimize the code by using different techniques of dynamic programming to analyze the time and space complexity.
+	- Optimized the code by using different techniques of dynamic programming to analyze the time and space complexity.
+	
+is_Unique
+
+	- Implemented a program to determine if a string has all unique characters.
+
+LinkedLists
+
+	- Implemented a Singly Linked Lists which performs different operations in a singly linked list. For example, retrieve a middle element, add a new node, remove a node, check whether a linked list is a palindrome, and reverse a linked ist. 
 
 Multiplication_Recursive
 
 	- Created a method to multiply two numbers by using multiplication recursive. 
+
+Palindrome_Number
+
+	- Implemented a method to determine if a given number is a palindrome.
+
+String_Permutation
+
+	- Created a method to generate all the strings permutation.
 
 SubstitutionCipher
 
